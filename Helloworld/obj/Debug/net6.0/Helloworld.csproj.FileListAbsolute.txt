@@ -1,0 +1,15 @@
+D:\Work\Bridgelabz\.net repo\Helloworld\Helloworld\bin\Debug\net6.0\Helloworld.exe
+D:\Work\Bridgelabz\.net repo\Helloworld\Helloworld\bin\Debug\net6.0\Helloworld.deps.json
+D:\Work\Bridgelabz\.net repo\Helloworld\Helloworld\bin\Debug\net6.0\Helloworld.runtimeconfig.json
+D:\Work\Bridgelabz\.net repo\Helloworld\Helloworld\bin\Debug\net6.0\Helloworld.dll
+D:\Work\Bridgelabz\.net repo\Helloworld\Helloworld\bin\Debug\net6.0\Helloworld.pdb
+D:\Work\Bridgelabz\.net repo\Helloworld\Helloworld\obj\Debug\net6.0\Helloworld.csproj.AssemblyReference.cache
+D:\Work\Bridgelabz\.net repo\Helloworld\Helloworld\obj\Debug\net6.0\Helloworld.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Bridgelabz\.net repo\Helloworld\Helloworld\obj\Debug\net6.0\Helloworld.AssemblyInfoInputs.cache
+D:\Work\Bridgelabz\.net repo\Helloworld\Helloworld\obj\Debug\net6.0\Helloworld.AssemblyInfo.cs
+D:\Work\Bridgelabz\.net repo\Helloworld\Helloworld\obj\Debug\net6.0\Helloworld.csproj.CoreCompileInputs.cache
+D:\Work\Bridgelabz\.net repo\Helloworld\Helloworld\obj\Debug\net6.0\Helloworld.dll
+D:\Work\Bridgelabz\.net repo\Helloworld\Helloworld\obj\Debug\net6.0\refint\Helloworld.dll
+D:\Work\Bridgelabz\.net repo\Helloworld\Helloworld\obj\Debug\net6.0\Helloworld.pdb
+D:\Work\Bridgelabz\.net repo\Helloworld\Helloworld\obj\Debug\net6.0\Helloworld.genruntimeconfig.cache
+D:\Work\Bridgelabz\.net repo\Helloworld\Helloworld\obj\Debug\net6.0\ref\Helloworld.dll
